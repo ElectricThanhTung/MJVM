@@ -3,6 +3,7 @@
     "displayName": "MJVM Debug",
     "description": "Debug java with MJVM",
     "version": "1.0.0",
+    "icon": "images/icons/icon_round.png",
     "publisher": "ElectricThanhTung",
     "author": {
         "name": "ElectricThanhTung",
